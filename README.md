@@ -283,6 +283,6 @@ ViaBackwards和ViaRewind都需要ViaVersion作为前置插件。
 5.在游戏或控制台中执行“/easywl off”关闭白名单
 6.在游戏或控制台中执行“/easywl reload”重新加载
 
-# <center>![图](https://picdl.sunbangyan.cn/2023/11/24/9e47bf4551239e4bb97a7472412828b6.png)</center>
+# <center>![图](images/1706804668022.png)</center>
 
  
